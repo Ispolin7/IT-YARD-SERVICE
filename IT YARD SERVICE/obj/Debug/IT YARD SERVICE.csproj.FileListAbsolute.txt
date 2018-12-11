@@ -1,0 +1,7 @@
+C:\Users\Ispolin\source\repos\IT YARD SERVICE\IT YARD SERVICE\bin\Debug\IT YARD SERVICE.exe.config
+C:\Users\Ispolin\source\repos\IT YARD SERVICE\IT YARD SERVICE\bin\Debug\IT YARD SERVICE.exe
+C:\Users\Ispolin\source\repos\IT YARD SERVICE\IT YARD SERVICE\bin\Debug\IT YARD SERVICE.pdb
+C:\Users\Ispolin\source\repos\IT YARD SERVICE\IT YARD SERVICE\obj\Debug\IT YARD SERVICE.csprojAssemblyReference.cache
+C:\Users\Ispolin\source\repos\IT YARD SERVICE\IT YARD SERVICE\obj\Debug\IT YARD SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Ispolin\source\repos\IT YARD SERVICE\IT YARD SERVICE\obj\Debug\IT YARD SERVICE.exe
+C:\Users\Ispolin\source\repos\IT YARD SERVICE\IT YARD SERVICE\obj\Debug\IT YARD SERVICE.pdb
